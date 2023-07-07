@@ -14,6 +14,8 @@ Manage states that need to be updated asynchronously, such as data from backend,
 - get and process asynchronouse data
 - emit states and isLoading false
 - emit states with errorMessage
+## States
+- use model (mixin entities) that have error, msg, and data
 
 # Cubit
 ## Usage
@@ -29,3 +31,5 @@ Manage states that did not need to be asynchronous such as settings, options, er
 - process synchronouse states
 - emit states with isRebuild false
 - emit states with errorMessage
+# States
+- use entities
