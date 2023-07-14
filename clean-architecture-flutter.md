@@ -33,6 +33,9 @@
 - bloc
 - cubit
 - pages
+  - page1
+    - page1.dart
+    - page1_layout.dart
 - widgets
 
 # Sequence
